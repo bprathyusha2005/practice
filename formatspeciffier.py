@@ -2,4 +2,4 @@
 
 
 a = "Hello"
-print(f"The value a is {a})
+print(f"The value a is {a}")
